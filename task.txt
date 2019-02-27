@@ -1,1 +1,3 @@
 Elso tesztfajl, dolgozzatok.
+
+feladat 1
